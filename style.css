@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+  }
+
+  body {
+      text-align: center;
+  }
+  
+  .hidden {
+    visibility: hidden;
+  }
+  
+  li {
+    padding-bottom: 30px;
+    list-style: none;
+  }
